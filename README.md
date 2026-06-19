@@ -233,7 +233,7 @@ Example Output:
   "saas": 98.37
 }
 ```
-
+SAAS = Semantic Alignment Analysis Score
 ---
 
 ## Current Limitations
