@@ -15,9 +15,9 @@ from PIL import Image
 # CONFIG
 # ===================================
 
-IMAGE_MODEL = r"C:\IIT Mandi\Projects\SemanticAlignmentProject\models\theme_extractor.pth"
+IMAGE_MODEL = r"C:\Projects\SemanticAlignmentProject\models\theme_extractor.pth"
 
-TEXT_MODEL = r"C:\IIT Mandi\Projects\SemanticAlignmentProject\models\text_encoder.pth"
+TEXT_MODEL = r"C:\Projects\SemanticAlignmentProject\models\text_encoder.pth"
 
 device = torch.device(
     "cuda" if torch.cuda.is_available()
@@ -220,7 +220,7 @@ def compute_saas(
 # TEST
 # ===================================
 
-IMAGE = r"C:\IIT Mandi\Projects\SemanticAlignmentProject\datasets\sports\sports_8955.jpg"
+IMAGE = r"C:\Projects\SemanticAlignmentProject\datasets\sports\sports_8955.jpg"
 
 TEXT = "football is my favorite game"
 
