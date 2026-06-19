@@ -1,0 +1,55 @@
+==================================================
+Semantic Alignment Analyzer
+==================================================
+
+Input Image:
+sample_images/sports.jpg
+
+Input Text:
+"Football match tonight"
+
+--------------------------------------------------
+
+======================
+SEMANTIC ANALYSIS
+======================
+
+Image Theme: sports
+Image Confidence: 99.89 %
+
+Text Theme: sports
+Text Confidence: 70.14 %
+
+Theme Match: True
+
+SAAS Score: 85.02
+
+Mismatch Example:
+
+
+==================================================
+Semantic Alignment Analyzer
+==================================================
+
+Input Image:
+sample_images/sports.jpg
+
+Input Text:
+"This food is call biriyani"
+
+--------------------------------------------------
+
+======================
+SEMANTIC ANALYSIS
+======================
+
+Image Theme: sports
+Image Confidence: 99.89 %
+
+Text Theme: food
+Text Confidence: 64.46 %
+
+Theme Match: False
+
+SAAS Score: 3.22
+
