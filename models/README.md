@@ -7,5 +7,7 @@ text_encoder.pth & theme_extractor.pth was excluded because it exceeds GitHub's 
 
 don't worry I'll Provide the drive link so that you can try it locally and run it
 Google Drive:
-text_encoder: 
-theme_extractor: 
+
+#Links:
+text_encoder: https://drive.google.com/file/d/12Jdrh8pZN-fJ6frv7ev1owk-UvAyK9tR/view?usp=drive_link
+theme_extractor: https://drive.google.com/file/d/1GSbYE8ZMKB7QYu7V0rJ5Oh48_QsBnG-U/view?usp=drive_link
